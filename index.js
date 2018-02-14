@@ -11,5 +11,6 @@ require('./assets/scripts/index.js')
 require('./assets/styles/index.scss')
 
 for (let x = 0; x < 15; x ++) {
-  alert('alerts are the worst!')
+  alert('alerts are the wurst!')
+  alert('alerts are the wurst!, right?')
 }
