@@ -10,4 +10,6 @@ require('./assets/scripts/index.js')
 // styles
 require('./assets/styles/index.scss')
 
-alert('alerts are the worst!')
+for (let x = 0; x < 10; x ++) {
+  alert('alerts are the worst!')
+}
